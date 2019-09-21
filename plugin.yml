@@ -1,0 +1,11 @@
+name: Dynamite
+main: Sheabie03/Dynamite/Main
+api: 3.2.0
+version: 1.0
+website: https://github.com/Sheabie03/Dynamite/
+author: Sheabie03
+
+commands:
+ dynamite:
+  description: "Vous donne une dynamite"
+  permission: dynamite.give
